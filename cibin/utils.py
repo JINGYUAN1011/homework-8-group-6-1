@@ -1005,3 +1005,5 @@ def N_plus1_exact_CI(n11, n10, n01, n00, alpha):
     upper = tau_max
     lower = tau_min
     return (lower, upper)
+
+print("hello")
